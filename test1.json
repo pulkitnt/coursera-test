@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "%r\najgkl",
+      "text": "%r\najgffkl",
       "user": "pbhardwaj@qubole.com",
-      "dateUpdated": "Apr 9, 2019 7:41:00 AM",
+      "dateUpdated": "Apr 9, 2019 7:43:21 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -15,8 +15,7 @@
           "groups": [],
           "scatter": {}
         },
-        "enabled": true,
-        "editorMode": "ace/mode/r"
+        "enabled": true
       },
       "settings": {
         "params": {},
