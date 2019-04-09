@@ -1,0 +1,47 @@
+{
+  "paragraphs": [
+    {
+      "text": "%r\najgkl",
+      "user": "pbhardwaj@qubole.com",
+      "dateUpdated": "Apr 9, 2019 7:41:00 AM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/r"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "version": "v0",
+      "jobName": "paragraph_1554795623361_1787077174",
+      "id": "20190409-074023_538529229_q_9855N151231554795610",
+      "dateCreated": "Apr 9, 2019 7:40:23 AM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 1000
+    }
+  ],
+  "name": "first_git_test",
+  "id": "9855N151231554795610",
+  "angularObjects": {
+    "2E81CXV7K853591554795519535:shared_process": [],
+    "2E9B98NAQ853591554795519534:shared_process": [],
+    "2E8X9H6GD853591554795519532:shared_process": [],
+    "2E8S6HVDG853591554795519535:shared_process": []
+  },
+  "config": {
+    "isDashboard": false,
+    "defaultLang": "r"
+  },
+  "info": {},
+  "source": "FCN"
+}
